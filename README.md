@@ -5,7 +5,7 @@ Symmetric_Cryptanalysis_labs
 
 
 
-## lab2: BM2
+## lab2: BM
 
 
 
