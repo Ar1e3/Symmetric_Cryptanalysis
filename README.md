@@ -1,17 +1,17 @@
 # Symmetric_Cryptanalysis
 Symmetric_Cryptanalysis_labs
 
-## lab1:Vigenere
+## lab1: Vigenere
 
 
 
-## lab2:BM1
+## lab2: BM1
 
 
 
 
-## lab3:Rapid Automatic Keyword Extraction，RAKE
+## lab3: Rapid Automatic Keyword Extraction，RAKE
 
 
 
-## lab4：RSA_breaking
+## lab4: RSA_breaking
